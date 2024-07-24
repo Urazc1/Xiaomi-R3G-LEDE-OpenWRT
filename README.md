@@ -25,7 +25,7 @@
     <li>Argon-Theme
 </ul>  
 
-Shellclash未测试，由于先前使用过的固件在使用Shellclash时Direct连接均无效，故编译此固件用于使用Openclash。
+支持Shellclash，DIRECT连接正常
 
 ---------------
 来自coolsnowwolf的LEDE项目地址：https://github.com/coolsnowwolf/lede
